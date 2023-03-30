@@ -1,0 +1,667 @@
+Company,Country,Ticker,Climate,,,
+Central Puerto SA,Argentina, CEPU,Fossil,,,
+Pampa Energia SA,Argentina, PAM,Fossil,,,
+Transportadora de Gas del Sur SA,Argentina, TGS,Fossil,,,
+YPF SA,Argentina,YPF,Fossil,,,
+AAG Energy Holdings Ltd,Cayman Islands, AAGEF,Fossil,,,
+Anton Oilfield Services Group,Cayman Islands, ATONF,Fossil,,,
+Brooge Energy Ltd,Cayman Islands, BROG,Fossil,,,
+CIMC Enric Holdings Ltd,Cayman Islands, CIMEF,Fossil,,,
+ENN Energy Holdings Ltd,Cayman Islands, XNGSF,Fossil,,,
+Fenikso Ltd,Cayman Islands,FNK,Fossil,,,
+GCL Technology Holdings Ltd,Cayman Islands, GCPEF,Fossil,,,
+Geely Automobile Holdings Ltd,Cayman Islands, GELYF,Fossil,,,
+Hidili Industry International Development Ltd,Cayman Islands, HIIDQ,Fossil,,,
+Indonesia Energy Corp Ltd,Cayman Islands,INDO,Fossil,,,
+JinkoSolar Holding Co Ltd,Cayman Islands, JKS,Fossil,,,
+Jutal Offshore Oil Services Ltd,Cayman Islands, JUTOY,Fossil,,,
+Li Auto Inc,Cayman Islands, LI,Fossil,,,
+Mongolian Mining Corp,Cayman Islands, MOGLF,Fossil,,,
+NIO Inc,Cayman Islands, NIO,Fossil,,,
+Perennial Energy Holdings Ltd,Cayman Islands, PEZ,Fossil,,,
+Recon Technology Ltd,Cayman Islands, RCON,Fossil,,,
+Sany Heavy Equipment International Holdings Co Ltd,Cayman Islands, SNYYF,Fossil,,,
+Shelf Drilling Ltd,Cayman Islands, SHLLF,Fossil,,,
+Shengli Oil & Gas Pipe Holdings Ltd,Cayman Islands, GSG,Fossil,,,
+SPT Energy Group Inc,Cayman Islands, SEGYY,Fossil,,,
+Tethys Petroleum Ltd,Cayman Islands, TETHF,Fossil,,,
+Tianneng Power International Ltd,Cayman Islands, TIANF,Fossil,,,
+Towngas Smart Energy Co Ltd,Cayman Islands, PGJ,Fossil,,,
+Vantage Drilling Co,Cayman Islands,VTGDF,Fossil,,,
+Vantage Drilling International,Cayman Islands,VTDRF,Fossil,,,
+Xinyi Solar Holdings Ltd,Cayman Islands, XISHY,Fossil,,,
+Yadea Group Holdings Ltd,Cayman Islands, YADGF,Fossil,,,
+Agricultural Bank of China Ltd,China, ACGBF,Fossil,,,
+Aluminum Corp of China Ltd,China, ACHHY,Fossil,,,
+Bank Of China Ltd,China, BACHF,Fossil,,,
+Bank of Communications Co Ltd,China, BCMXY,Fossil,,,
+BYD Co Ltd,China, BYDDF,Fossil,,,
+China Citic Bank Corp Ltd,China, CHBJF,Fossil,,,
+China Coal Energy Co Ltd,China, CCOZF,Fossil,,,
+China Construction Bank Corp,China, CICHF,Fossil,,,
+China Everbright Bank Co Ltd,China, CEBCF,Fossil,,,
+China Longyuan Power Group Corp Ltd,China, CLPXF,Fossil,,,
+China Merchants Bank Co Ltd,China, CIHHF,Fossil,,,
+China Minsheng Banking Corp Ltd,China, CGMBF,Fossil,,,
+China Oilfield Services Ltd,China, CHOLF,Fossil,,,
+China Petroleum & Chemical Corp,China, SNPMF,Fossil,,,
+China Railway Signal & Communication Corp Ltd,China, CRYCY,Fossil,,,
+China Shenhua Energy Co Ltd,China, CSUAY,Fossil,,,
+China Suntien Green Energy Corp Ltd,China, CSGEF,Fossil,,,
+Datang International Power Generation Co Ltd,China, DAT,Fossil,,,
+Dongfang Electric Corp Ltd,China, DNGFF,Fossil,,,
+GEM Co Ltd,China, GEM,Fossil,,,
+Huadian Power International Corp Ltd,China, HPIFF,Fossil,,,
+Huaneng Power International Inc,China, HUNGF,Fossil,,,
+Industrial And Commercial Bank Of China Ltd,China, IDCBF,Fossil,,,
+Inner Mongolia Yitai Coal Co Ltd,China, IMYCF,Fossil,,,
+PetroChina Co Ltd,China, PCCYF,Fossil,,,
+Ping An Insurance (Group) Co. of China Ltd,China, PIAIF,Fossil,,,
+Postal Savings Bank Of China Co Ltd,China, PSBKF,Fossil,,,
+Shandong Molong Petroleum Machinery Co Ltd,China, PXI,Fossil,,,
+SINOPEC Engineering (Group) Co Ltd,China, SENGF,Fossil,,,
+Sinopec Oilfield Service Corp,China, YZCFF,Fossil,,,
+Sinopec Shanghai Petrochemical Co Ltd,China, SHIIY,Fossil,,,
+The People's Insurance Co (Group) of China Ltd,China, PINXF,Fossil,,,
+Weiqiao Textile Co Ltd,China, WQTEF,Fossil,,,
+Xinjiang Goldwind Science & Technology Co Ltd,China, XJNGF,Fossil,,,
+Yankuang Energy Group Co Ltd,China, YZCAY,Fossil,,,
+Zhuzhou CRRC Times Electric Co Ltd,China, ZHUZF,Fossil,,,
+Air Liquide SA,France, AI,Fossil,,,
+Alstom SA,France, ALSMY,Fossil,,,
+AXA SA,France, AXAHF,Fossil,,,
+BNP Paribas,France, BNPQF,Fossil,,,
+CGG,France, CGGYY,Fossil,,,
+Credit Agricole SA,France, ACA,Fossil,,,
+Dassault Systemes SE,France, DASTF,Fossil,,,
+Electricite de France SA,France, ECIFF,Fossil,,,
+Engie SA,France, ENGIY,Fossil,,,
+Esso SAF,France, ES,Fossil,,,
+Etablissements Maurel & Prom,France, ETX,Fossil,,,
+Gaztransport et technigaz SA,France, GZPZF,Fossil,,,
+Kering SA,France, PPRUF,Fossil,,,
+Nexans,France, NEX,Fossil,,,
+Rexel SA,France, RXEEY,Fossil,,,
+Rubis SCA,France, BYN,Fossil,,,
+Sanofi SA,France, SAN,Fossil,,,
+Schneider Electric SE,France, SBGSF,Fossil,,,
+SCOR SE,France, SCRYY,Fossil,,,
+Societe Generale SA,France, SCGLF,Fossil,,,
+TotalEnergies SE,France, TTE,Fossil,,,
+Valeo SA,France, FR,Fossil,,,
+Veolia Environnement SA,France, VEOEF,Fossil,,,
+GAIL (India) Ltd,India, GAIA,Fossil,,,
+Hindalco Industries Ltd,India, HNDNF,Fossil,,,
+Oil India Ltd,India, OIL,Fossil,,,
+Power Finance Corp Ltd,India, PFC,Fossil,,,
+Reliance Industries Ltd,India, RLI,Fossil,,,
+Reliance Infrastructure Ltd,India, RELFF,Fossil,,,
+State Bank of India,India, SBKFF,Fossil,,,
+Tata Steel Ltd,India, TATLY,Fossil,,,
+AES Indiana,United States,IPWLG,Fossil,,,
+ALLETE Inc,United States, ALE,Fossil,,,
+Alliant Energy Corp,United States, LNT,Fossil,,,
+Ameren Corp,United States, AEE,Fossil,,,
+American Electric Power Co Inc,United States, AEP,Fossil,,,
+Atmos Energy Corp,United States, AEO,Fossil,,,
+Avangrid Inc,United States, AGR,Fossil,,,
+Avista Corp,United States, AVA,Fossil,,,
+Berkshire Hathaway Inc,United States, BRYN,Fossil,,,
+Black Hills Corp,United States, BKH,Fossil,,,
+CenterPoint Energy Inc,United States, CNP,Fossil,,,
+Chesapeake Utilities Corp,United States, CPK,Fossil,,,
+China Natural Gas Inc,United States,CHNGQ,Fossil,,,
+CMS Energy Corp,United States, CMS,Fossil,,,
+Consolidated Edison Inc,United States, ED,Fossil,,,
+Constellation Energy Corp,United States,CEG,Fossil,,,
+Dominion Energy Inc,United States, D,Fossil,,,
+DTE Energy Co,United States, DTE,Fossil,,,
+Duke Energy Corp,United States, DUK,Fossil,,,
+Edison International,United States, EIX,Fossil,,,
+Energy HBR Corp,United States,ENGH,Fossil,,,
+Entergy Corp,United States, ETR,Fossil,,,
+Evergy Inc,United States, EVRG,Fossil,,,
+Eversource Energy,United States, ES,Fossil,,,
+Excelerate Energy Inc,United States,EE,Fossil,,,
+Exelon Corp,United States, EXC,Fossil,,,
+FirstEnergy Corp,United States, FE,Fossil,,,
+Genie Energy Ltd,United States, GNE,Fossil,,,
+Hallador Energy Co,United States, HNRG,Fossil,,,
+Hawaiian Electric Industries Inc,United States,HE,Fossil,,,
+Idacorp Inc,United States,IDA,Fossil,,,
+MDU Resources Group Inc,United States,MDU,Fossil,,,
+MGE Energy Inc,United States,MGEE,Fossil,,,
+New Fortress Energy Inc,United States,NFE,Fossil,,,
+New Jersey Resources Corp,United States, NJR,Fossil,,,
+NextEra Energy Inc,United States, NEE,Fossil,,,
+NiSource Inc,United States, NI,Fossil,,,
+Northwest Natural Holding Co,United States, NWN,Fossil,,,
+NorthWestern Corp,United States,NWE,Fossil,,,
+NRG Energy Inc,United States, NRG,Fossil,,,
+NSTAR Electric Co,United States,NSARO,Fossil,,,
+OGE Energy Corp,United States, OGE,Fossil,,,
+ONE Gas Inc,United States, OGS,Fossil,,,
+OPAL Fuels Inc,United States,OPAL,Fossil,,,
+Otter Tail Corp,United States, OTTR,Fossil,,,
+PacifiCorp,United States,PPWLM,Fossil,,,
+PG&E Corp,United States, PCG,Fossil,,,
+Pinnacle West Capital Corp,United States, PNW,Fossil,,,
+PNM Resources Inc,United States, PNM,Fossil,,,
+Portland General Electric Co,United States, POR,Fossil,,,
+PPL Corp,United States, PPL,Fossil,,,
+Public Service Company of New Mexico,United States,PNMXO,Fossil,,,
+Public Service Enterprise Group Inc,United States, PEG,Fossil,,,
+RGC Resources Inc,United States,RGCO,Fossil,,,
+Sempra Energy,United States, SRE,Fossil,,,
+Southern Co,United States, SO,Fossil,,,
+Southwest Gas Holdings Inc,United States,SWX,Fossil,,,
+Spire Inc,United States, SR,Fossil,,,
+Suburban Propane Partners LP,United States,SPH,Fossil,,,
+The AES Corp,United States, AES,Fossil,,,
+The Connecticut Light & Power Co,United States,CNLHN,Fossil,,,
+UGI Corp,United States, UGI,Fossil,,,
+Union Electric Co,United States,UELMO,Fossil,,,
+Unitil Corp,United States,UTL,Fossil,,,
+Via Renewables Inc,United States, VIA,Fossil,,,
+Vistra Corp,United States, VST,Fossil,,,
+WEC Energy Group Inc,United States, WEC,Fossil,,,
+Wisconsin Electric Power Co,United States,WELPM,Fossil,,,
+Xcel Energy Inc,United States, XEL,Fossil,,,
+China Natural Resources Inc,"Virgin Islands, British",CHNR,Fossil,,,
+Feishang Anthracite Resources Ltd,"Virgin Islands, British", FSHRF,Fossil,,,
+National Energy Services Reunited Corp,"Virgin Islands, British",NESR,Fossil,,,
+Orca Energy Group Inc,"Virgin Islands, British", ORXGF,Fossil,,,
+Petro-Victory Energy Corp,"Virgin Islands, British", PTVRF,Fossil,,,
+Solgenics Ltd,"Virgin Islands, British", NCDZF,Fossil,,,
+Cresud SACIF y A,Argentina, CRESY,Deforestation,,,
+YPF SA,Argentina,YPF,Deforestation,,,
+China Mengniu Dairy Co Ltd,Cayman Islands, CIADF,Deforestation,,,
+CK Hutchison Holdings Ltd,Cayman Islands, CKHUF,Deforestation,,,
+Hengan International Group Co Ltd,Cayman Islands, HEGIF,Deforestation,,,
+Li Ning Co Ltd,Cayman Islands, LNNGF,Deforestation,,,
+WH Group Ltd,Cayman Islands, WHGLY,Deforestation,,,
+Bank Of China Ltd,China, BACHF,Deforestation,,,
+Industrial And Commercial Bank Of China Ltd,China, IDCBF,Deforestation,,,
+ZTE Corp,China, ZTCOF,Deforestation,,,
+BNP Paribas,France, BNPQF,Deforestation,,,
+Bollore SE,France, BOIVF,Deforestation,,,
+Carrefour,France, CAR,Deforestation,,,
+Casino Guichard-Perrachon SA,France, CAJ,Deforestation,,,
+Compagnie de l`Odet,France, FCODF,Deforestation,,,
+Compagnie de Saint-Gobain SA,France, CODGF,Deforestation,,,
+Danone SA,France, BN,Deforestation,,,
+Kering SA,France, PPRUF,Deforestation,,,
+L'Oreal SA,France, LRLCF,Deforestation,,,
+LVMH Moet Hennessy Louis Vuitton SE,France, LVMHF,Deforestation,,,
+Savencia SA,France, BHP,Deforestation,,,
+Sodexo,France, SDXAY,Deforestation,,,
+Bhartiya International Ltd,India, BIL,Deforestation,,,
+Golden Agri-Resources Ltd,Mauritius, GARPF,Deforestation,,,
+Capri Holdings Ltd,"Virgin Islands, British", CPRI,Deforestation,,,
+AAC Technologies Holdings Inc,Cayman Islands, AACAF,GenderEquality,,,
+Agile Group Holdings Ltd,Cayman Islands, AGPYF,GenderEquality,,,
+Alibaba Group Holding Ltd,Cayman Islands, BABA,GenderEquality,,,
+Ambarella Inc,Cayman Islands, AMBA,GenderEquality,,,
+AMTD Digital Inc,Cayman Islands,HKD,GenderEquality,,,
+ANTA Sports Products Ltd,Cayman Islands, ANPDF,GenderEquality,,,
+ASMPT Ltd,Cayman Islands, ASMVF,GenderEquality,,,
+Ausnutria Dairy Corp Ltd,Cayman Islands, AUDYF,GenderEquality,,,
+Autohome Inc,Cayman Islands, ATHM,GenderEquality,,,
+Baidu Inc,Cayman Islands, BAIDF,GenderEquality,,,
+BeiGene Ltd,Cayman Islands, BGNE,GenderEquality,,,
+Bilibili Inc,Cayman Islands, BILI,GenderEquality,,,
+Budweiser Brewing Co APAC Ltd,Cayman Islands, BDWBF,GenderEquality,,,
+China Conch Venture Holdings Ltd,Cayman Islands, CCVTF,GenderEquality,,,
+China Education Group Holdings Ltd,Cayman Islands, CEGHF,GenderEquality,,,
+China Evergrande Group,Cayman Islands, EGRNF,GenderEquality,,,
+China Hongqiao Group Ltd,Cayman Islands, CHHQF,GenderEquality,,,
+China Literature Ltd,Cayman Islands, CHLLF,GenderEquality,,,
+China Medical System Holdings Ltd,Cayman Islands, CHSYF,GenderEquality,,,
+China Mengniu Dairy Co Ltd,Cayman Islands, CIADF,GenderEquality,,,
+China Resources Cement Holdings Ltd,Cayman Islands, CARCY,GenderEquality,,,
+China Resources Land Ltd,Cayman Islands, CRBJF,GenderEquality,,,
+China State Construction International Holdings Ltd,Cayman Islands, CCOHF,GenderEquality,,,
+Chow Tai Fook Jewellery Group Ltd,Cayman Islands, CJEWF,GenderEquality,,,
+CK Asset Holdings Ltd,Cayman Islands, CHKGF,GenderEquality,,,
+CK Hutchison Holdings Ltd,Cayman Islands, CKHUF,GenderEquality,,,
+Country Garden Holdings Co Ltd,Cayman Islands, CTRYF,GenderEquality,,,
+Country Garden Services Holdings Co Ltd,Cayman Islands, CGSHY,GenderEquality,,,
+Dali Foods Group Co Ltd,Cayman Islands, DLLFF,GenderEquality,,,
+Dingdong (Cayman) Ltd,Cayman Islands, DDL,GenderEquality,,,
+Diversey Holdings Ltd,Cayman Islands,DSEY,GenderEquality,,,
+DLocal Ltd,Cayman Islands,DLO,GenderEquality,,,
+ENN Energy Holdings Ltd,Cayman Islands, XNGSF,GenderEquality,,,
+ESR Group Ltd,Cayman Islands, ESRCF,GenderEquality,,,
+Fabrinet,Cayman Islands,FAN,GenderEquality,,,
+Farfetch Ltd,Cayman Islands, FTCH,GenderEquality,,,
+FIT Hon Teng Ltd,Cayman Islands, FITGF,GenderEquality,,,
+Full Truck Alliance Co Ltd,Cayman Islands, YMM,GenderEquality,,,
+Futu Holdings Ltd,Cayman Islands, FUTU,GenderEquality,,,
+Galaxy Digital Holdings Ltd,Cayman Islands, BRPHF,GenderEquality,,,
+GDS Holdings Ltd,Cayman Islands, GDS,GenderEquality,,,
+Geely Automobile Holdings Ltd,Cayman Islands, GELYF,GenderEquality,,,
+GLOBALFOUNDRIES Inc,Cayman Islands, GFS,GenderEquality,,,
+Greentown China Holdings Ltd,Cayman Islands, GTWCF,GenderEquality,,,
+H World Group Ltd,Cayman Islands, HTHT,GenderEquality,,,
+Haidilao International Holding Ltd,Cayman Islands, HDALF,GenderEquality,,,
+Health and Happiness (H&H) International Holdings Ltd,Cayman Islands, BTSDF,GenderEquality,,,
+Hello Group Inc,Cayman Islands, MOMO,GenderEquality,,,
+Hengan International Group Co Ltd,Cayman Islands, HEGIF,GenderEquality,,,
+Herbalife Nutrition Ltd,Cayman Islands,HLF,GenderEquality,,,
+HKT Trust and HKT Ltd,Cayman Islands, HKTTF,GenderEquality,,,
+HUTCHMED (China) Ltd,Cayman Islands, HCM,GenderEquality,,,
+JD.com Inc,Cayman Islands, JD,GenderEquality,,,
+JOYY Inc,Cayman Islands, YY,GenderEquality,,,
+JS Global Lifestyle Co Ltd,Cayman Islands, JGLCF,GenderEquality,,,
+Kanzhun Ltd,Cayman Islands, BZ,GenderEquality,,,
+Kingboard Holdings Ltd,Cayman Islands, KBDCF,GenderEquality,,,
+Kingboard Laminates Holdings Ltd,Cayman Islands, KGBLF,GenderEquality,,,
+Kingsoft Corp Ltd,Cayman Islands, KSFTF,GenderEquality,,,
+KWG Group Holdings Ltd,Cayman Islands, KWGPF,GenderEquality,,,
+Lee & Man Paper Manufacturing Ltd,Cayman Islands, LMPMF,GenderEquality,,,
+Legend Biotech Corp,Cayman Islands, LEGN,GenderEquality,,,
+Li Ning Co Ltd,Cayman Islands, LNNGF,GenderEquality,,,
+Logan Property Holdings Co Ltd,Cayman Islands, LPHHF,GenderEquality,,,
+Longfor Group Holdings Ltd,Cayman Islands, LGFRY,GenderEquality,,,
+Luckin Coffee Inc,Cayman Islands, LKCO,GenderEquality,,,
+Manchester United PLC,Cayman Islands, MANU,GenderEquality,,,
+Meituan,Cayman Islands, MPNGF,GenderEquality,,,
+Melco Resorts and Entertainment Ltd,Cayman Islands, MAS,GenderEquality,,,
+MGM China Holdings Ltd,Cayman Islands, MCHVF,GenderEquality,,,
+MicroPort Scientific Corp,Cayman Islands, MCRPF,GenderEquality,,,
+Minth Group Ltd,Cayman Islands, MNTHF,GenderEquality,,,
+NagaCorp Ltd,Cayman Islands, NGCRF,GenderEquality,,,
+NetEase Inc,Cayman Islands, NETTF,GenderEquality,,,
+New Oriental Education & Technology Group Inc,Cayman Islands, EDU,GenderEquality,,,
+Nexteer Automotive Group Ltd,Cayman Islands, NTXVF,GenderEquality,,,
+NIO Inc,Cayman Islands, NIO,GenderEquality,,,
+Noah Holdings Ltd,Cayman Islands, NOAH,GenderEquality,,,
+PagSeguro Digital Ltd,Cayman Islands,PAGS,GenderEquality,,,
+PDD Holdings Inc,Cayman Islands, PDD,GenderEquality,,,
+RLX Technology Inc,Cayman Islands, RLX,GenderEquality,,,
+Sands China Ltd,Cayman Islands, SCHYF,GenderEquality,,,
+Sapiens International Corp NV,Cayman Islands, SPNS,GenderEquality,,,
+Sea Ltd,Cayman Islands, SE,GenderEquality,,,
+Seazen Group Ltd,Cayman Islands, SZENF,GenderEquality,,,
+Shenzhou International Group Holdings Ltd,Cayman Islands, SHZHY,GenderEquality,,,
+Shimao Group Holdings Ltd,Cayman Islands, SHMAY,GenderEquality,,,
+Silicon Motion Technology Corp,Cayman Islands, SIMO,GenderEquality,,,
+Sino Biopharmaceutical Ltd,Cayman Islands, SBHMY,GenderEquality,,,
+SITC International Holdings Co Ltd,Cayman Islands, SITIF,GenderEquality,,,
+StoneCo Ltd,Cayman Islands, STNE,GenderEquality,,,
+Sunac China Holdings Ltd,Cayman Islands, SCCCF,GenderEquality,,,
+Sunny Optical Technology (Group) Co Ltd,Cayman Islands, SNPTF,GenderEquality,,,
+TAL Education Group,Cayman Islands, TAL,GenderEquality,,,
+Tencent Holdings Ltd,Cayman Islands, TCEHY,GenderEquality,,,
+Tencent Music Entertainment Group,Cayman Islands, TME,GenderEquality,,,
+Tingyi (Cayman Islands) Holding Corp,Cayman Islands, TCYMF,GenderEquality,,,
+Trip.com Group Ltd,Cayman Islands, TCOM,GenderEquality,,,
+Tuya Inc,Cayman Islands, TUYA,GenderEquality,,,
+Uni-President China Holdings Ltd,Cayman Islands, UNPSF,GenderEquality,,,
+Vinda International Holdings Ltd,Cayman Islands, VDAHF,GenderEquality,,,
+Vipshop Holdings Ltd,Cayman Islands, VIPS,GenderEquality,,,
+Want Want China Holdings Ltd,Cayman Islands, WWNTF,GenderEquality,,,
+Weibo Corp,Cayman Islands, WB,GenderEquality,,,
+WH Group Ltd,Cayman Islands, WHGLY,GenderEquality,,,
+Wharf Real Estate Investment Co Ltd,Cayman Islands, WRFRF,GenderEquality,,,
+WuXi Biologics (Cayman) Inc,Cayman Islands, WXIBF,GenderEquality,,,
+Wynn Macau Ltd,Cayman Islands, WYNMF,GenderEquality,,,
+Xiaomi Corp,Cayman Islands, XIACF,GenderEquality,,,
+Xinyi Glass Holdings Ltd,Cayman Islands, XYIGF,GenderEquality,,,
+Xinyi Solar Holdings Ltd,Cayman Islands, XISHY,GenderEquality,,,
+XP Inc,Cayman Islands,XP,GenderEquality,,,
+Zai Lab Ltd,Cayman Islands, ZLAB,GenderEquality,,,
+Zhihu Inc,Cayman Islands, ZH,GenderEquality,,,
+Zhongsheng Group Holdings Ltd,Cayman Islands, ZHSHF,GenderEquality,,,
+ZTO Express (Cayman) Inc,Cayman Islands, ZTO,GenderEquality,,,
+Agricultural Bank of China Ltd,China, ACGBF,GenderEquality,,,
+AviChina Industry & Technology Co Ltd,China, AVIJF,GenderEquality,,,
+BAIC Motor Corp Ltd,China, BCCMY,GenderEquality,,,
+Bank Of China Ltd,China, BACHF,GenderEquality,,,
+Bank of Communications Co Ltd,China, BCMXY,GenderEquality,,,
+Beijing Capital International Airport Co Ltd,China, BJCHF,GenderEquality,,,
+BYD Co Ltd,China, BYDDF,GenderEquality,,,
+China Cinda Asset Management Co Ltd,China, CCGDF,GenderEquality,,,
+China Citic Bank Corp Ltd,China, CHBJF,GenderEquality,,,
+China Communications Services Corp Ltd,China, CUCSF,GenderEquality,,,
+China Construction Bank Corp,China, CICHF,GenderEquality,,,
+China International Capital Corp Ltd,China, CIM,GenderEquality,,,
+China Life Insurance Co Ltd,China, CILJF,GenderEquality,,,
+China Longyuan Power Group Corp Ltd,China, CLPXF,GenderEquality,,,
+China Merchants Bank Co Ltd,China, CIHHF,GenderEquality,,,
+China National Building Material Co Ltd,China, CBUMF,GenderEquality,,,
+China Petroleum & Chemical Corp,China, SNPMF,GenderEquality,,,
+China Shenhua Energy Co Ltd,China, CSUAY,GenderEquality,,,
+China Vanke Co Ltd,China, CHVKF,GenderEquality,,,
+Dongfeng Motor Group Co Ltd,China, DNFGF,GenderEquality,,,
+Guangzhou Baiyunshan Pharmaceutical Holdings Co Ltd,China, GZPHF,GenderEquality,,,
+Guangzhou R&F Properties Co Ltd,China, GZUHF,GenderEquality,,,
+Industrial And Commercial Bank Of China Ltd,China, IDCBF,GenderEquality,,,
+Legend Holdings Ltd,China, LGNRF,GenderEquality,,,
+Nongfu Spring Co Ltd,China, NNFSF,GenderEquality,,,
+PetroChina Co Ltd,China, PCCYF,GenderEquality,,,
+PICC Property and Casualty Co Ltd,China, PPCCF,GenderEquality,,,
+Ping An Insurance (Group) Co. of China Ltd,China, PIAIF,GenderEquality,,,
+Shandong Weigao Group Medical Polymer Co Ltd,China, SHWGF,GenderEquality,,,
+SINOPEC Engineering (Group) Co Ltd,China, SENGF,GenderEquality,,,
+Sinopharm Group Co Ltd,China, SHTDF,GenderEquality,,,
+TravelSky Technology Ltd,China, TSYHF,GenderEquality,,,
+Yuzhou Group Holdings Co Ltd,China, YUZHF,GenderEquality,,,
+Zhaojin Mining Industry Co Ltd,China, ZHAOF,GenderEquality,,,
+Zhejiang Expressway Co Ltd,China, ZHEXF,GenderEquality,,,
+ZhongAn Online P&C Insurance Co Ltd,China, ZZHGF,GenderEquality,,,
+Zhuzhou CRRC Times Electric Co Ltd,China, ZHUZF,GenderEquality,,,
+Accor SA,France, AC,GenderEquality,,,
+Aeroports de Paris SA,France, ADP,GenderEquality,,,
+Air France-KLM,France, AFLYY,GenderEquality,,,
+Air Liquide SA,France, AI,GenderEquality,,,
+Alstom SA,France, ALSMY,GenderEquality,,,
+Altarea SCA,France, ATRRF,GenderEquality,,,
+Amundi SA,France, AMDUF,GenderEquality,,,
+Arkema SA,France, ARKAF,GenderEquality,,,
+Atos SE,France, AEXAF,GenderEquality,,,
+AXA SA,France, AXAHF,GenderEquality,,,
+Believe SA,France, BLV,GenderEquality,,,
+Bic,France, BB,GenderEquality,,,
+BioMerieux SA,France, BMXMF,GenderEquality,,,
+BNP Paribas,France, BNPQF,GenderEquality,,,
+Bollore SE,France, BOIVF,GenderEquality,,,
+Bouygues,France, BOUYF,GenderEquality,,,
+Bureau Veritas SA,France, BVRDF,GenderEquality,,,
+Capgemini SE,France, CAPMF,GenderEquality,,,
+Carrefour,France, CAR,GenderEquality,,,
+Casino Guichard-Perrachon SA,France, CAJ,GenderEquality,,,
+Christian Dior SE,France, CHDRF,GenderEquality,,,
+Compagnie de l`Odet,France, FCODF,GenderEquality,,,
+Compagnie de Saint-Gobain SA,France, CODGF,GenderEquality,,,
+Covivio SA,France, GSEFF,GenderEquality,,,
+Credit Agricole SA,France, ACA,GenderEquality,,,
+Danone SA,France, BN,GenderEquality,,,
+Dassault Aviation SA,France, AM,GenderEquality,,,
+Dassault Systemes SE,France, DASTF,GenderEquality,,,
+Edenred SA,France, EDEN,GenderEquality,,,
+Eiffage SA,France, EFGSF,GenderEquality,,,
+Electricite de France SA,France, ECIFF,GenderEquality,,,
+Elis SA,France, ELSSF,GenderEquality,,,
+Engie SA,France, ENGIY,GenderEquality,,,
+Essilorluxottica,France, EL,GenderEquality,,,
+Eurazeo SE,France, EUZOF,GenderEquality,,,
+Eutelsat Communications,France, ETCMY,GenderEquality,,,
+Exclusive Networks SA,France, EXN,GenderEquality,,,
+Faurecia SE,France, FURCF,GenderEquality,,,
+Gaztransport et technigaz SA,France, GZPZF,GenderEquality,,,
+Gecina Nom,France, GECFF,GenderEquality,,,
+Getlink SE,France, GRPTF,GenderEquality,,,
+Hermes International SA,France, HESAF,GenderEquality,,,
+Icade,France, CDMGF,GenderEquality,,,
+Imerys,France, IMYSF,GenderEquality,,,
+Interparfums,France, ITP,GenderEquality,,,
+Ipsen SA,France, IPSEF,GenderEquality,,,
+JCDecaux SE,France, JCDXF,GenderEquality,,,
+Kering SA,France, PPRUF,GenderEquality,,,
+Klepierre,France, KLPEF,GenderEquality,,,
+L'Oreal SA,France, LRLCF,GenderEquality,,,
+La Francaise Des Jeux SA,France, LFDJF,GenderEquality,,,
+Lagardere SA,France, LGDDF,GenderEquality,,,
+Legrand SA,France, LGRDY,GenderEquality,,,
+LVMH Moet Hennessy Louis Vuitton SE,France, LVMHF,GenderEquality,,,
+Mercialys SA,France, MEIYF,GenderEquality,,,
+Metropole Television SA,France, MMT,GenderEquality,,,
+Michelin,France, MCHA,GenderEquality,,,
+Nexans,France, NEX,GenderEquality,,,
+Nexity SA,France, NNXXY,GenderEquality,,,
+Orange SA,France, FNCTF,GenderEquality,,,
+Orpea SA,France, OPA,GenderEquality,,,
+Pernod Ricard SA,France, PDRDF,GenderEquality,,,
+Peugeot Invest,France, FFPP,GenderEquality,,,
+Plastic Omnium,France, EZM,GenderEquality,,,
+Publicis Groupe SA,France, PGPEF,GenderEquality,,,
+Remy Cointreau,France, REMYF,GenderEquality,,,
+Renault SA,France, RNLSY,GenderEquality,,,
+Rexel SA,France, RXEEY,GenderEquality,,,
+Rothschild & Co SCA,France, PIEJF,GenderEquality,,,
+Rubis SCA,France, BYN,GenderEquality,,,
+Safran SA,France, SAFRF,GenderEquality,,,
+Sanofi SA,France, SAN,GenderEquality,,,
+Sartorius Stedim Biotech SA,France, DIM,GenderEquality,,,
+Schneider Electric SE,France, SBGSF,GenderEquality,,,
+SCOR SE,France, SCRYY,GenderEquality,,,
+SEB SA,France, SEBYF,GenderEquality,,,
+Societe Generale SA,France, SCGLF,GenderEquality,,,
+Sodexo,France, SDXAY,GenderEquality,,,
+Soitec SA,France, SLOIF,GenderEquality,,,
+Sopra Steria Group SA,France, SPSAF,GenderEquality,,,
+Teleperformance SE,France, TLPFF,GenderEquality,,,
+Television Francaise 1 SA,France, TFI,GenderEquality,,,
+Thales,France, CSF,GenderEquality,,,
+Tikehau Capital SCA,France, TKKHF,GenderEquality,,,
+TotalEnergies SE,France, TTE,GenderEquality,,,
+Trigano SA,France, TRI,GenderEquality,,,
+Ubisoft Entertainment,France, UBSFF,GenderEquality,,,
+Valeo SA,France, FR,GenderEquality,,,
+Vallourec SA,France, VAC,GenderEquality,,,
+Veolia Environnement SA,France, VEOEF,GenderEquality,,,
+Vinci SA,France, DG,GenderEquality,,,
+Virbac SA,France, VRBCF,GenderEquality,,,
+Vivendi SE,France, VIV,GenderEquality,,,
+Wendel SE,France, MF,GenderEquality,,,
+Worldline SA,France, WWLNF,GenderEquality,,,
+Golden Agri-Resources Ltd,Mauritius, GARPF,GenderEquality,,,
+MakeMyTrip Ltd,Mauritius,MMYT,GenderEquality,,,
+ALLETE Inc,United States, ALE,GenderEquality,,,
+Alliant Energy Corp,United States, LNT,GenderEquality,,,
+Ameren Corp,United States, AEE,GenderEquality,,,
+American Electric Power Co Inc,United States, AEP,GenderEquality,,,
+Atmos Energy Corp,United States, AEO,GenderEquality,,,
+Avangrid Inc,United States, AGR,GenderEquality,,,
+Avista Corp,United States, AVA,GenderEquality,,,
+Berkshire Hathaway Inc,United States, BRYN,GenderEquality,,,
+Black Hills Corp,United States, BKH,GenderEquality,,,
+CenterPoint Energy Inc,United States, CNP,GenderEquality,,,
+CMS Energy Corp,United States, CMS,GenderEquality,,,
+Consolidated Edison Inc,United States, ED,GenderEquality,,,
+Dominion Energy Inc,United States, D,GenderEquality,,,
+DTE Energy Co,United States, DTE,GenderEquality,,,
+Duke Energy Corp,United States, DUK,GenderEquality,,,
+Edison International,United States, EIX,GenderEquality,,,
+Entergy Corp,United States, ETR,GenderEquality,,,
+Evergy Inc,United States, EVRG,GenderEquality,,,
+Eversource Energy,United States, ES,GenderEquality,,,
+Exelon Corp,United States, EXC,GenderEquality,,,
+FirstEnergy Corp,United States, FE,GenderEquality,,,
+Hawaiian Electric Industries Inc,United States,HE,GenderEquality,,,
+Idacorp Inc,United States,IDA,GenderEquality,,,
+MDU Resources Group Inc,United States,MDU,GenderEquality,,,
+MGE Energy Inc,United States,MGEE,GenderEquality,,,
+New Fortress Energy Inc,United States,NFE,GenderEquality,,,
+New Jersey Resources Corp,United States, NJR,GenderEquality,,,
+NextEra Energy Inc,United States, NEE,GenderEquality,,,
+NiSource Inc,United States, NI,GenderEquality,,,
+NorthWestern Corp,United States,NWE,GenderEquality,,,
+NRG Energy Inc,United States, NRG,GenderEquality,,,
+OGE Energy Corp,United States, OGE,GenderEquality,,,
+ONE Gas Inc,United States, OGS,GenderEquality,,,
+PG&E Corp,United States, PCG,GenderEquality,,,
+Pinnacle West Capital Corp,United States, PNW,GenderEquality,,,
+PNM Resources Inc,United States, PNM,GenderEquality,,,
+Portland General Electric Co,United States, POR,GenderEquality,,,
+PPL Corp,United States, PPL,GenderEquality,,,
+Public Service Enterprise Group Inc,United States, PEG,GenderEquality,,,
+Sempra Energy,United States, SRE,GenderEquality,,,
+Southern Co,United States, SO,GenderEquality,,,
+Southwest Gas Holdings Inc,United States,SWX,GenderEquality,,,
+Spire Inc,United States, SR,GenderEquality,,,
+The AES Corp,United States, AES,GenderEquality,,,
+UGI Corp,United States, UGI,GenderEquality,,,
+Vistra Corp,United States, VST,GenderEquality,,,
+WEC Energy Group Inc,United States, WEC,GenderEquality,,,
+Xcel Energy Inc,United States, XEL,GenderEquality,,,
+Capri Holdings Ltd,"Virgin Islands, British", CPRI,GenderEquality,,,
+Nomad Foods Ltd,"Virgin Islands, British", NOMD,GenderEquality,,,
+VK Co Ltd,"Virgin Islands, British", MLRYY,GenderEquality,,,
+BNP Paribas,France, BNPQF,Prison,,,
+Capgemini SE,France, CAPMF,Prison,,,
+Sodexo,France, SDXAY,Prison,,,
+Thales,France, CSF,Prison,,,
+Berkshire Hathaway Inc,United States, BRYN,Prison,,,
+,,,Sealevel,AAC Technologies Holdings Inc,Cayman Islands, AACAF
+,,,Sealevel,AAG Energy Holdings Ltd,Cayman Islands, AAGEF
+,,,Sealevel,Agile Group Holdings Ltd,Cayman Islands, AGPYF
+,,,Sealevel,Alibaba Group Holding Ltd,Cayman Islands, BABA
+,,,Sealevel,Ambarella Inc,Cayman Islands, AMBA
+,,,Sealevel,AMTD Digital Inc,Cayman Islands,HKD
+,,,Sealevel,ANTA Sports Products Ltd,Cayman Islands, ANPDF
+,,,Sealevel,Anton Oilfield Services Group,Cayman Islands, ATONF
+,,,Sealevel,ASMPT Ltd,Cayman Islands, ASMVF
+,,,Sealevel,Ausnutria Dairy Corp Ltd,Cayman Islands, AUDYF
+,,,Sealevel,Autohome Inc,Cayman Islands, ATHM
+,,,Sealevel,Baidu Inc,Cayman Islands, BAIDF
+,,,Sealevel,BeiGene Ltd,Cayman Islands, BGNE
+,,,Sealevel,Bilibili Inc,Cayman Islands, BILI
+,,,Sealevel,Brooge Energy Ltd,Cayman Islands, BROG
+,,,Sealevel,Budweiser Brewing Co APAC Ltd,Cayman Islands, BDWBF
+,,,Sealevel,China Conch Venture Holdings Ltd,Cayman Islands, CCVTF
+,,,Sealevel,China Education Group Holdings Ltd,Cayman Islands, CEGHF
+,,,Sealevel,China Evergrande Group,Cayman Islands, EGRNF
+,,,Sealevel,China Hongqiao Group Ltd,Cayman Islands, CHHQF
+,,,Sealevel,China Literature Ltd,Cayman Islands, CHLLF
+,,,Sealevel,China Medical System Holdings Ltd,Cayman Islands, CHSYF
+,,,Sealevel,China Mengniu Dairy Co Ltd,Cayman Islands, CIADF
+,,,Sealevel,China Resources Cement Holdings Ltd,Cayman Islands, CARCY
+,,,Sealevel,China Resources Land Ltd,Cayman Islands, CRBJF
+,,,Sealevel,China State Construction International Holdings Ltd,Cayman Islands, CCOHF
+,,,Sealevel,Chow Tai Fook Jewellery Group Ltd,Cayman Islands, CJEWF
+,,,Sealevel,CIMC Enric Holdings Ltd,Cayman Islands, CIMEF
+,,,Sealevel,CK Asset Holdings Ltd,Cayman Islands, CHKGF
+,,,Sealevel,CK Hutchison Holdings Ltd,Cayman Islands, CKHUF
+,,,Sealevel,Country Garden Holdings Co Ltd,Cayman Islands, CTRYF
+,,,Sealevel,Country Garden Services Holdings Co Ltd,Cayman Islands, CGSHY
+,,,Sealevel,Dali Foods Group Co Ltd,Cayman Islands, DLLFF
+,,,Sealevel,Dingdong (Cayman) Ltd,Cayman Islands, DDL
+,,,Sealevel,Diversey Holdings Ltd,Cayman Islands,DSEY
+,,,Sealevel,DLocal Ltd,Cayman Islands,DLO
+,,,Sealevel,ENN Energy Holdings Ltd,Cayman Islands, XNGSF
+,,,Sealevel,ESR Group Ltd,Cayman Islands, ESRCF
+,,,Sealevel,Fabrinet,Cayman Islands,FAN
+,,,Sealevel,Farfetch Ltd,Cayman Islands, FTCH
+,,,Sealevel,Fenikso Ltd,Cayman Islands,FNK
+,,,Sealevel,FIT Hon Teng Ltd,Cayman Islands, FITGF
+,,,Sealevel,Full Truck Alliance Co Ltd,Cayman Islands, YMM
+,,,Sealevel,Futu Holdings Ltd,Cayman Islands, FUTU
+,,,Sealevel,Galaxy Digital Holdings Ltd,Cayman Islands, BRPHF
+,,,Sealevel,GCL Technology Holdings Ltd,Cayman Islands, GCPEF
+,,,Sealevel,GDS Holdings Ltd,Cayman Islands, GDS
+,,,Sealevel,Geely Automobile Holdings Ltd,Cayman Islands, GELYF
+,,,Sealevel,GLOBALFOUNDRIES Inc,Cayman Islands, GFS
+,,,Sealevel,Greentown China Holdings Ltd,Cayman Islands, GTWCF
+,,,Sealevel,H World Group Ltd,Cayman Islands, HTHT
+,,,Sealevel,Haidilao International Holding Ltd,Cayman Islands, HDALF
+,,,Sealevel,Health and Happiness (H&H) International Holdings Ltd,Cayman Islands, BTSDF
+,,,Sealevel,Hello Group Inc,Cayman Islands, MOMO
+,,,Sealevel,Hengan International Group Co Ltd,Cayman Islands, HEGIF
+,,,Sealevel,Herbalife Nutrition Ltd,Cayman Islands,HLF
+,,,Sealevel,Hidili Industry International Development Ltd,Cayman Islands, HIIDQ
+,,,Sealevel,HKT Trust and HKT Ltd,Cayman Islands, HKTTF
+,,,Sealevel,HUTCHMED (China) Ltd,Cayman Islands, HCM
+,,,Sealevel,Indonesia Energy Corp Ltd,Cayman Islands,INDO
+,,,Sealevel,JD.com Inc,Cayman Islands, JD
+,,,Sealevel,JinkoSolar Holding Co Ltd,Cayman Islands, JKS
+,,,Sealevel,JOYY Inc,Cayman Islands, YY
+,,,Sealevel,JS Global Lifestyle Co Ltd,Cayman Islands, JGLCF
+,,,Sealevel,Jutal Offshore Oil Services Ltd,Cayman Islands, JUTOY
+,,,Sealevel,Kanzhun Ltd,Cayman Islands, BZ
+,,,Sealevel,Kingboard Holdings Ltd,Cayman Islands, KBDCF
+,,,Sealevel,Kingboard Laminates Holdings Ltd,Cayman Islands, KGBLF
+,,,Sealevel,Kingsoft Corp Ltd,Cayman Islands, KSFTF
+,,,Sealevel,KWG Group Holdings Ltd,Cayman Islands, KWGPF
+,,,Sealevel,Lee & Man Paper Manufacturing Ltd,Cayman Islands, LMPMF
+,,,Sealevel,Legend Biotech Corp,Cayman Islands, LEGN
+,,,Sealevel,Li Auto Inc,Cayman Islands, LI
+,,,Sealevel,Li Ning Co Ltd,Cayman Islands, LNNGF
+,,,Sealevel,Logan Property Holdings Co Ltd,Cayman Islands, LPHHF
+,,,Sealevel,Longfor Group Holdings Ltd,Cayman Islands, LGFRY
+,,,Sealevel,Luckin Coffee Inc,Cayman Islands, LKCO
+,,,Sealevel,Manchester United PLC,Cayman Islands, MANU
+,,,Sealevel,Meituan,Cayman Islands, MPNGF
+,,,Sealevel,Melco Resorts and Entertainment Ltd,Cayman Islands, MAS
+,,,Sealevel,MGM China Holdings Ltd,Cayman Islands, MCHVF
+,,,Sealevel,MicroPort Scientific Corp,Cayman Islands, MCRPF
+,,,Sealevel,Minth Group Ltd,Cayman Islands, MNTHF
+,,,Sealevel,Mongolian Mining Corp,Cayman Islands, MOGLF
+,,,Sealevel,NagaCorp Ltd,Cayman Islands, NGCRF
+,,,Sealevel,NetEase Inc,Cayman Islands, NETTF
+,,,Sealevel,New Oriental Education & Technology Group Inc,Cayman Islands, EDU
+,,,Sealevel,Nexteer Automotive Group Ltd,Cayman Islands, NTXVF
+,,,Sealevel,NIO Inc,Cayman Islands, NIO
+,,,Sealevel,Noah Holdings Ltd,Cayman Islands, NOAH
+,,,Sealevel,PagSeguro Digital Ltd,Cayman Islands,PAGS
+,,,Sealevel,PDD Holdings Inc,Cayman Islands, PDD
+,,,Sealevel,Perennial Energy Holdings Ltd,Cayman Islands, PEZ
+,,,Sealevel,Recon Technology Ltd,Cayman Islands, RCON
+,,,Sealevel,RLX Technology Inc,Cayman Islands, RLX
+,,,Sealevel,Sands China Ltd,Cayman Islands, SCHYF
+,,,Sealevel,Sany Heavy Equipment International Holdings Co Ltd,Cayman Islands, SNYYF
+,,,Sealevel,Sapiens International Corp NV,Cayman Islands, SPNS
+,,,Sealevel,Sea Ltd,Cayman Islands, SE
+,,,Sealevel,Seazen Group Ltd,Cayman Islands, SZENF
+,,,Sealevel,Shelf Drilling Ltd,Cayman Islands, SHLLF
+,,,Sealevel,Shengli Oil & Gas Pipe Holdings Ltd,Cayman Islands, GSG
+,,,Sealevel,Shenzhou International Group Holdings Ltd,Cayman Islands, SHZHY
+,,,Sealevel,Shimao Group Holdings Ltd,Cayman Islands, SHMAY
+,,,Sealevel,Silicon Motion Technology Corp,Cayman Islands, SIMO
+,,,Sealevel,Sino Biopharmaceutical Ltd,Cayman Islands, SBHMY
+,,,Sealevel,SITC International Holdings Co Ltd,Cayman Islands, SITIF
+,,,Sealevel,Smoore International Holdings Ltd,Cayman Islands, SMORF
+,,,Sealevel,SPT Energy Group Inc,Cayman Islands, SEGYY
+,,,Sealevel,StoneCo Ltd,Cayman Islands, STNE
+,,,Sealevel,Sunac China Holdings Ltd,Cayman Islands, SCCCF
+,,,Sealevel,Sunny Optical Technology (Group) Co Ltd,Cayman Islands, SNPTF
+,,,Sealevel,TAL Education Group,Cayman Islands, TAL
+,,,Sealevel,Tencent Holdings Ltd,Cayman Islands, TCEHY
+,,,Sealevel,Tencent Music Entertainment Group,Cayman Islands, TME
+,,,Sealevel,Tethys Petroleum Ltd,Cayman Islands, TETHF
+,,,Sealevel,Tianneng Power International Ltd,Cayman Islands, TIANF
+,,,Sealevel,Tingyi (Cayman Islands) Holding Corp,Cayman Islands, TCYMF
+,,,Sealevel,Towngas Smart Energy Co Ltd,Cayman Islands, PGJ
+,,,Sealevel,Trip.com Group Ltd,Cayman Islands, TCOM
+,,,Sealevel,Tuya Inc,Cayman Islands, TUYA
+,,,Sealevel,Uni-President China Holdings Ltd,Cayman Islands, UNPSF
+,,,Sealevel,Vantage Drilling Co,Cayman Islands,VTGDF
+,,,Sealevel,Vantage Drilling International,Cayman Islands,VTDRF
+,,,Sealevel,Vinda International Holdings Ltd,Cayman Islands, VDAHF
+,,,Sealevel,Vipshop Holdings Ltd,Cayman Islands, VIPS
+,,,Sealevel,Want Want China Holdings Ltd,Cayman Islands, WWNTF
+,,,Sealevel,Weibo Corp,Cayman Islands, WB
+,,,Sealevel,WH Group Ltd,Cayman Islands, WHGLY
+,,,Sealevel,Wharf Real Estate Investment Co Ltd,Cayman Islands, WRFRF
+,,,Sealevel,WuXi Biologics (Cayman) Inc,Cayman Islands, WXIBF
+,,,Sealevel,Wynn Macau Ltd,Cayman Islands, WYNMF
+,,,Sealevel,Xiaomi Corp,Cayman Islands, XIACF
+,,,Sealevel,Xinyi Glass Holdings Ltd,Cayman Islands, XYIGF
+,,,Sealevel,Xinyi Solar Holdings Ltd,Cayman Islands, XISHY
+,,,Sealevel,XP Inc,Cayman Islands,XP
+,,,Sealevel,Yadea Group Holdings Ltd,Cayman Islands, YADGF
+,,,Sealevel,Zai Lab Ltd,Cayman Islands, ZLAB
+,,,Sealevel,Zhihu Inc,Cayman Islands, ZH
+,,,Sealevel,Zhongsheng Group Holdings Ltd,Cayman Islands, ZHSHF
+,,,Sealevel,ZTO Express (Cayman) Inc,Cayman Islands, ZTO
+,,,Sealevel,Golden Agri-Resources Ltd,Mauritius, GARPF
+,,,Sealevel,MakeMyTrip Ltd,Mauritius,MMYT
+,,,Sealevel,Capri Holdings Ltd,"Virgin Islands, British", CPRI
+,,,Sealevel,China Natural Resources Inc,"Virgin Islands, British",CHNR
+,,,Sealevel,Feishang Anthracite Resources Ltd,"Virgin Islands, British", FSHRF
+,,,Sealevel,National Energy Services Reunited Corp,"Virgin Islands, British",NESR
+,,,Sealevel,Nomad Foods Ltd,"Virgin Islands, British", NOMD
+,,,Sealevel,Orca Energy Group Inc,"Virgin Islands, British", ORXGF
+,,,Sealevel,Petro-Victory Energy Corp,"Virgin Islands, British", PTVRF
+,,,Sealevel,Solgenics Ltd,"Virgin Islands, British", NCDZF
+,,,Sealevel,VK Co Ltd,"Virgin Islands, British", MLRYY
+RLX Technology Inc,Cayman Islands, RLX,Tobacco,,,
+Smoore International Holdings Ltd,Cayman Islands, SMORF,Tobacco,,,
+CNIM Group,France, COMP,Weapons,,,
+Dassault Aviation SA,France, AM,Weapons,,,
+Safran SA,France, SAFRF,Weapons,,,
+Thales,France, CSF,Weapons,,,
+Bharat Dynamics Ltd,India, BDL,Weapons,,,
+Hindustan Aeronautics Ltd,India, HAL,Weapons,,,
+Larsen & Toubro Ltd,India, LTOUF,Weapons,,,
