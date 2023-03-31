@@ -119,3 +119,37 @@ def delete_stock_from_portfolio(portfolio_name, portfolio_newname, ticker):
     add_portfolio_to_list(portfolio_newname)
     portfolio.to_csv(to_portfolio_file)
     return True
+
+def get_projection_data(portfolio_name):
+    pd_result = pd.DataFrame()
+    projection_file = os.path.join(basedir, 'data/projected_result_{0}.csv'.format(portfolio_name))
+    portfolio_file = os.path.join(basedir, 'data/{0}.csv'.format(portfolio_name))
+    portfolio = pd.read_csv(portfolio_file)
+    portfolio['CreatedDate']= pd.to_datetime(portfolio['CreatedDate'])
+    final_date = portfolio['CreatedDate'].max()
+    year, month, day = str(final_date).split('-')
+    projection = pd.read_csv(projection_file)
+    projection['CreatedDate']= pd.to_datetime(projection['CreatedDate'])
+    maxdate = projection['CreatedDate'].max()
+    mindate = projection['CreatedDate'].min()
+    pd_result_2050 = projection.query('CreatedDate ==\''+str(maxdate)+'\'')
+    for index, row in pd_result_2050.iterrows():       
+        invested_amount = projection.query('CreatedDate ==\''+str(mindate)+'\' and Ticker ==\'' + row['Ticker']+ '\'')['Invested_Value'].iloc[0]
+        print(invested_amount)
+        pd_result = pd_result.append({'Ticker':row['Ticker'],'Invested_Value': invested_amount,'_2050_Value':row['Invested_Value'],'Company':row['Company'],'Country':row['Country']},ignore_index=True)
+
+    projection_grouped = projection.groupby(['CreatedDate'])['Invested_Value'].sum()
+    result_df = projection_grouped
+      
+    result_df.to_csv(os.path.join(basedir,"data/result_df_grouped_{0}.csv".format(portfolio_name)))
+    result_df = pd.read_csv(os.path.join(basedir,"data/result_df_grouped_{0}.csv".format(portfolio_name)))
+    result_df['CreatedDate']= pd.to_datetime(result_df['CreatedDate'])
+    
+    result_df.sort_values(['CreatedDate'],inplace=True)
+    result_df_grouped = result_df.groupby(['CreatedDate'])['Invested_Value'].sum()
+    
+    result_df_grouped.to_csv(os.path.join(basedir,"data/result_df_grouped_1_{0}.csv".format(portfolio_name)))
+    result_df_grouped = pd.read_csv(os.path.join(basedir,"data/result_df_grouped_1_{0}.csv".format(portfolio_name)))
+    result_df_grouped['CreatedDate']= pd.to_datetime(result_df_grouped['CreatedDate'])
+
+    return result_df_grouped, pd_result

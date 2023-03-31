@@ -4,29 +4,31 @@ import servicelayer as sl
 
 app = Flask(__name__)
 api = Api(app, version='1.0', title='GROW - ESG Analytics API')
-ns = api.namespace('api')
 
-portfolioupdate = ns.model('PortfolioUpdate', {
+pf = api.namespace('portfoliomanagement')
+prj = api.namespace('projection')
+
+portfolioupdate = pf.model('PortfolioUpdate', {
     'portfolio_newname': fields.String,
     'tickeradded': fields.String,
     'tickerremoved': fields.String
 })
 
-@ns.route('/stocks')
+@pf.route('/stocks')
 class Stocks(Resource):
    def get(self):
         response = {}
         response['stocks'] = sl.get_stocks()
         return jsonify(response)
    
-@ns.route('/portfolios')
+@pf.route('/portfolios')
 class Portfolios(Resource):
    def get(self):
         response = {}
         response['portfolios'] = sl.get_portfolios()
         return jsonify(response)
 
-@ns.route('/portfolios/<name>')
+@pf.route('/portfolios/<name>')
 class Portfolio(Resource):
     def get(self, name):
         portfolio_stocks, benchmark_summary, portfolio_summary = sl.get_portfolio_data(name)
@@ -40,7 +42,7 @@ class Portfolio(Resource):
         response['returns_data'] = portfolio_returns_data.to_dict(orient='records')
         return jsonify(response)
    
-    @ns.expect(portfolioupdate)
+    @pf.expect(portfolioupdate)
     def put(self, name):
         portfolio_newname = api.payload['portfolio_newname']
         tickeradded = api.payload['tickeradded']
@@ -65,7 +67,28 @@ class Portfolio(Resource):
 
         return jsonify(response)
        
-   
+@prj.route('/portfolios/<name>')
+class Projection(Resource):
+    def get(self, name):
+        result_df_grouped, pd_result = sl.get_projection_data(name)
+        response = {}
+        response['result_df_grouped'] = result_df_grouped.to_dict(orient = 'records')
+        response['pd_result'] = pd_result.to_dict(orient = 'records')
+
+        return jsonify(response)
+
+@prj.route('/comparison/<port1>/<port2>')
+class Comparison(Resource):
+    def get(self, port1, port2):
+        response = {}
+        port1_df_grouped, port1_result = sl.get_projection_data(port1)
+        port2_df_grouped, port2_result = sl.get_projection_data(port2)
+        response['port1_df_grouped'] = port1_df_grouped.to_dict(orient = 'records')
+        response['port1_result'] = port1_result.to_dict(orient = 'records')
+        response['port2_df_grouped'] = port2_df_grouped.to_dict(orient = 'records')
+        response['port2_result'] = port2_result.to_dict(orient = 'records')
+
+        return jsonify(response)
 
 if __name__ == '__main__':
     app.run(debug = True, port = 5001)
