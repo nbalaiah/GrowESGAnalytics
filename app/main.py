@@ -7,6 +7,7 @@ api = Api(app, version='1.0', title='GROW - ESG Analytics API')
 
 pf = api.namespace('portfoliomanagement')
 prj = api.namespace('projection')
+mr = api.namespace('modelrun')
 
 portfolioupdate = pf.model('PortfolioUpdate', {
     'portfolio_newname': fields.String,
@@ -88,6 +89,13 @@ class Comparison(Resource):
         response['port2_df_grouped'] = port2_df_grouped.to_dict(orient = 'records')
         response['port2_result'] = port2_result.to_dict(orient = 'records')
 
+        return jsonify(response)
+
+@mr.route('/portfolios/<name>')
+class ModelRun(Resource):
+    def post(self, name):
+        response = {}
+        
         return jsonify(response)
 
 if __name__ == '__main__':
