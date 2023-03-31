@@ -250,5 +250,5 @@ def run_temp_model_SAD(portfolio_name, discount_rate, growth_rate, year):
     print(a_df_temp)
     a_df_temp = a_df_temp.append(portfolio)
     a_df_temp.to_csv(output_file)
-    return 'Model ran successfully!!'
+    return True
 

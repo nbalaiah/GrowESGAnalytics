@@ -15,6 +15,12 @@ portfolioupdate = pf.model('PortfolioUpdate', {
     'tickerremoved': fields.String
 })
 
+modelparamters = mr.model('ModelParameters', {
+    'discount_rate': fields.Float,
+    'growth_rate': fields.Float,
+    'forecast_year': fields.Integer
+})
+
 @pf.route('/stocks')
 class Stocks(Resource):
    def get(self):
@@ -93,10 +99,13 @@ class Comparison(Resource):
 
 @mr.route('/portfolios/<name>')
 class ModelRun(Resource):
+    @mr.expect(modelparamters)
     def post(self, name):
-        response = {}
-        
-        return jsonify(response)
+        discount_rate = api.payload['discount_rate']
+        growth_rate = api.payload['growth_rate']
+        forecast_year = api.payload['forecast_year']
+        ran = sl.run_temp_model_SAD(name, discount_rate, growth_rate, forecast_year)
+        return jsonify({'ModelRan': ran})
 
 if __name__ == '__main__':
     app.run(debug = True, port = 5001)
