@@ -1,9 +1,27 @@
 from flask import Flask, redirect, url_for, render_template, make_response, jsonify, request
 from flask_restx import Api, Resource, fields
+from logging.config import dictConfig
+
 import servicelayer as sl
 
 app = Flask(__name__)
 api = Api(app, version='1.0', title='GROW - ESG Analytics API')
+
+dictConfig({
+    'version': 1,
+    'formatters': {'default': {
+        'format': '[%(asctime)s] %(levelname)s in %(module)s: %(message)s',
+    }},
+    'handlers': {'wsgi': {
+        'class': 'logging.StreamHandler',
+        'stream': 'ext://flask.logging.wsgi_errors_stream',
+        'formatter': 'default'
+    }},
+    'root': {
+        'level': 'INFO',
+        'handlers': ['wsgi']
+    }
+})
 
 pf = api.namespace('portfoliomanagement')
 prj = api.namespace('projection')
@@ -39,18 +57,20 @@ class Portfolios(Resource):
 class Portfolio(Resource):
     def get(self, name):
         portfolio_stocks, benchmark_summary, portfolio_summary = sl.get_portfolio_data(name)
-        portfolio_plot_data = sl.get_portfolio_plot_data(name)
-        portfolio_returns_data = sl.get_portfolio_returns_data(name)
+        portfolio_plot_data_esg, portfolio_plot_data = sl.get_portfolio_plot_data(name)
+        portfolio_returns_data, benchmark = sl.get_portfolio_returns_data(name)
         response = {}
         response['portfolio_summary'] = portfolio_summary.to_dict(orient='records')
         response['benchmark_summary'] = benchmark_summary.to_dict(orient='records')
         response['portfolio_stocks'] = portfolio_stocks.to_dict(orient='records')
         response['plot_data'] = portfolio_plot_data.to_dict(orient='records')
+        response['plot_data_esg'] = portfolio_plot_data_esg.to_dict(orient='records')
         response['returns_data'] = portfolio_returns_data.to_dict(orient='records')
+        response['benchmark'] = benchmark.to_dict(orient='records')
         return jsonify(response)
    
     @pf.expect(portfolioupdate)
-    def put(self, name):
+    def post(self, name):
         portfolio_newname = api.payload['portfolio_newname']
         tickeradded = api.payload['tickeradded']
         tickerremoved = api.payload['tickerremoved']
@@ -77,10 +97,11 @@ class Portfolio(Resource):
 @prj.route('/portfolios/<name>')
 class Projection(Resource):
     def get(self, name):
-        result_df_grouped, pd_result = sl.get_projection_data(name)
+        result_df_grouped, pd_result, final_date = sl.get_projection_data(name)
         response = {}
         response['result_df_grouped'] = result_df_grouped.to_dict(orient = 'records')
         response['pd_result'] = pd_result.to_dict(orient = 'records')
+        response['final_date'] = final_date
 
         return jsonify(response)
 
@@ -108,4 +129,4 @@ class ModelRun(Resource):
         return jsonify({'ModelRan': ran})
 
 if __name__ == '__main__':
-    app.run(debug = True, port = 5001)
+    app.run(port = 5001)
