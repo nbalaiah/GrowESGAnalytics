@@ -1,9 +1,10 @@
-,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Name
-0,0.0,0.0,0.0,0.0,portfolio_sample_1
-1,1.0,1.0,1.0,1.0,portfolio_sample_2
-2,2.0,2.0,2.0,2.0,portfolio_sample_deletetest
-3,3.0,3.0,3.0,3.0,portfolio_sample_1_2050forecast
-4,4.0,4.0,4.0,,portfolio_sample_1_2050forecast_Del
-5,5.0,5.0,,,portfolio_sample_1_2050forecast_Deltest
-6,6.0,,,,portfolio_sample_2_test
-7,,,,,portfolio_sample_2test
+Name
+portfolio_sample_1
+portfolio_sample_2
+portfolio_sample_deletetest
+portfolio_sample_1_2050forecast
+portfolio_sample_1_2050forecast_Del
+portfolio_sample_1_2050forecast_Deltest
+portfolio_sample_2_test
+portfolio_sample_2test
+portfolio_sample_3
